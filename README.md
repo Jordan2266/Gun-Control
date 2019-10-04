@@ -1,5 +1,5 @@
 # Gun Violence In the United States
-<p>In today's world, gun control and violence has been a topic of recent discussion and has been a conflicting issue for a long time. While some people think gun control laws need to be enacted, there are others who don't believe it is necessary to enact these laws. There are many factors that are linked to this such as laws "Stand your Ground" laws. These laws are not national laws but have been passed in many states. Meanwhile, other states such as New York have their own version of "Stand your Ground" laws.</p>
+<p>In today's world, gun control and violence has been a topic of recent discussion and has been a conflicting issue for a long time. While some people think gun control laws need to be enacted, there are others who don't believe it is necessary to enact these laws. There are many factors that are linked to this such as "Stand your Ground" laws. These laws are not national laws but have been passed in many states. Meanwhile, other states such as New York have their own version of "Stand your Ground" laws.</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175579-56273080-e628-11e9-8fd8-252762444a61.png)
 
