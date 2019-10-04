@@ -1,4 +1,4 @@
-# Gun Violence
+# Gun Violence In the United States
 <p>In today's world, gun control has been a topic of recent discussion and has been a conflicting issue been majority of people in the United States of America. While some people think gun control laws need to be enacted, there are others who don't believe it is necessary to enact these laws. There are many factors that are linked to this such as laws "Stand your Ground" laws. These laws are not national laws but have been passed in many states. Meanwhile, other states such as New York have their own version of "Stand your Ground" laws.</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175579-56273080-e628-11e9-8fd8-252762444a61.png)
@@ -17,9 +17,9 @@
 <p>Despite the fact that majority of the United States passed stand your ground laws, many of these states have different versions of it such as the Castle Doctrine. The Castle Doctrine is law that gives people the right to use their firearm if there is an intruder in that person's household. As stated earlier, the state of New York uses the Castle Doctrine for self-defense. But there are many circumstances to this and these rules of self-defense include:</p>
 
 <p><b>-If you are attempting to stop a burglary in your home you may use lethal force</b></p>
-<p>-You cannot shoot the intruder if they are retreating</p>
-<p>-You cannot shoot an intoxicated person that accidently enters the property</p>
-<p>-If a percieved threat is outside the property, you cannot shoot them</p>
+<p><b>-You cannot shoot the intruder if they are retreating</b></p>
+<p><b>-You cannot shoot an intoxicated person that accidently enters the property</b></p>
+<p><b>-If a percieved threat is outside the property, you cannot shoot them</b></p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175885-6be92580-e629-11e9-8703-eab3749cc00f.png)
 
