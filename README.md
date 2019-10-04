@@ -36,11 +36,11 @@
 ![image](https://user-images.githubusercontent.com/54198889/66175282-f0867480-e626-11e9-91ed-98da2143fe14.png)
 
 <p>Sources:</p>
-<a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html"></a>
+<a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html">States with Stand your ground Laws</a>
 
-<a href="https://everytownresearch.org/fact-sheet-stand-your-ground/"></a>
+<a href="https://everytownresearch.org/fact-sheet-stand-your-ground/">The danger of Stand your ground laws</a>
 
-<a href="https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott"></a>
+<a href="https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott">Loose gun laws in Texas</a>
 
 <a href="https://www.nbcnews.com/news/crime-courts/amber-guyger-sentencing-resumes-after-murder-conviction-death-botham-jean-n1061146">Amber Guyger Shooting</a>
 
