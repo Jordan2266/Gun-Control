@@ -37,8 +37,13 @@
 
 <p>Sources:</p>
 <a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html"></a>
+
 <a href="https://everytownresearch.org/fact-sheet-stand-your-ground/"></a>
+
 <a href="https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott"></a>
+
 <a href="https://www.nbcnews.com/news/crime-courts/amber-guyger-sentencing-resumes-after-murder-conviction-death-botham-jean-n1061146">Amber Guyger Shooting</a>
+
 <a href="http://worldpopulationreview.com/states/gun-violence-by-state/">Gun violence deaths in 2019</a>
+
 <a href="https://lawcenter.giffords.org/scorecard/#NY">States ranking on gun violence</a>
