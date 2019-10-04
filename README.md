@@ -1,14 +1,26 @@
-# Gun-Control
+# Gun Violence
 <p>In today's world, gun control has been a topic of recent discussion and has been a conflicting issue been majority of people in the United States of America. While some people think gun control laws need to be enacted, there are others who don't believe it is necessary to enact these laws. There are many factors that are linked to this such as laws "Stand your Ground" laws. These laws are not national laws but have been passed in many states. Meanwhile, other states such as New York have their own version of "Stand your Ground" laws.</p>
 
 # What are "Stand your Ground" Laws?
 <p>Stand your ground laws were first passed during 2005 in the state of Florida. These stand your ground laws give people the right to use self defense to protect themselves from a threat. Many states have their own version of stand your ground laws. For examaple,the state of New York uses the castle doctrine, where a homeowner has the right to use lethal force if there is an intruder on their property.</p>
 
 # The danger of Stand your Ground Laws
-<p>According to everytownresearch.org, 30 peopledie every month due to stand your ground laws and it leads to more firearm injuries. Stand your ground laws in the state of Florida alone led to a 32% increase in firearm  deaths and a 24% increase in overall homicides. </p>
+<p>According to everytownresearch.org, 30 people die every month due to stand your ground laws and it leads to more firearm injuries. Stand your ground laws in the state of Florida alone led to a 32% increase in firearm  deaths and a 24% increase in overall homicides. An example of stand your ground laws leading to an unlawful shooting was on September 6 2018, Dallas police officer Amber Guyger killed Botham Jean in his own apartment. Amber Guyger entered Botham Jean's apartment when she was off-duty and mistakenly thought Botham's apartment was her's. Believeing that he was a burglar, Amber Guyger shot Botham Jean in his own apartment. She has now been sentenced 10 years in prison while many other believe she deserved more that 20 years.</p>
+
+# Stricter versions of Stand your Ground Laws
+<p>Despite the fact that majority of the United States passed stand your ground laws, many of these states have different versions of it such as the Castle Doctrine. The Castle Doctrine is law that gives people the right to use their firearm if there is an intruder in that person's household. As stated earlier, the state of New York uses the Castle Doctrine for self-defense. But there are many circumstances to this and these rules of self-defense include:</p>
+
+**If you are attempting to stop a burglary in your home you may use lethal force**
+**You cannot shoot the intruder if they are retreating**
+**You cannot shoot an intoxicated person that accidently enters the property**
+**If a percieved threat is outside the property, you cannot shoot them**
+
+<p>During a court case they will also look for many other factors during the situation. Such as, did you call out any warnings, was the intruder or "percieved threat" even a danger to begin with, or did the intruder have a weapon. If the intruder was shot, the jury would take into account of where the intruder was shot. This is important because in this instance, the act of self-defense can be deemed unreasonably due to the jury making the conclusion that a retreat was being made.</p>
+
 
 <p>Sources:</p>
-https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html
-https://everytownresearch.org/fact-sheet-stand-your-ground/
-https://www.isidewith.com/poll/3507538
-https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott
+<a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html"></a>
+<a href="https://everytownresearch.org/fact-sheet-stand-your-ground/"></a>
+<a href="https://www.isidewith.com/poll/3507538"></a>
+<a href="https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott"></a>
+<a href="https://www.nbcnews.com/news/crime-courts/amber-guyger-sentencing-resumes-after-murder-conviction-death-botham-jean-n1061146"></a>
