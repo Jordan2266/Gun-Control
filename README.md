@@ -17,10 +17,17 @@
 
 <p>During a court case they will also look for many other factors during the situation. Such as, did you call out any warnings, was the intruder or "percieved threat" even a danger to begin with, or did the intruder have a weapon. If the intruder was shot, the jury would take into account of where the intruder was shot. This is important because in this instance, the act of self-defense can be deemed unreasonably due to the jury making the conclusion that a retreat was being made.</p>
 
+# States With High Gun Violence
+<p>In 2019, the state of Texas has had the most gun related deaths in the nation. This year, 3,500 people lost their lives related to firearms. As I mentioned earlier of Florida having high homicide rates due to stand your ground laws, this year, 2,700 people lost their lives due to gun violence and this was also stated by the increase in gun related homicides.</p>
+
+# Why is this an Important topic for our Future?
+<p>Even though this topic can be very sensitive for some people, I wanted to address this issue because many lives every year are losed due to these unnecessary violence. I believe self-defense should be a right people can keep but there should be a certain extent where this can be in the right for people to use. Such as the laws in New York, where there are specific circumstance where people should use their firearm for self-defense. Even though these circumstance can be much stricter, hopefully we all live in a future where gun related crimes are at an all time low for the United States.  </p>
 
 <p>Sources:</p>
 <a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html"></a>
 <a href="https://everytownresearch.org/fact-sheet-stand-your-ground/"></a>
 <a href="https://www.isidewith.com/poll/3507538"></a>
 <a href="https://www.theguardian.com/us-news/2019/sep/06/texas-gun-laws-mass-shootings-greg-abbott"></a>
-<a href="https://www.nbcnews.com/news/crime-courts/amber-guyger-sentencing-resumes-after-murder-conviction-death-botham-jean-n1061146"></a>
+<a href="https://www.nbcnews.com/news/crime-courts/amber-guyger-sentencing-resumes-after-murder-conviction-death-botham-jean-n1061146">Amber Guyger Shooting</a>
+<a href="http://worldpopulationreview.com/states/gun-violence-by-state/">Gun violence deaths in 2019</a>
+<a href="https://lawcenter.giffords.org/scorecard/#NY">States ranking on gun violence</a>
