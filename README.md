@@ -16,10 +16,10 @@
 # Stricter versions of Stand your Ground Laws
 <p>Despite the fact that majority of the United States passed stand your ground laws, many of these states have different versions of it such as the Castle Doctrine. The Castle Doctrine is law that gives people the right to use their firearm if there is an intruder in that person's household. As stated earlier, the state of New York uses the Castle Doctrine for self-defense. But there are many circumstances to this and these rules of self-defense include:</p>
 
-<p>**-If you are attempting to stop a burglary in your home you may use lethal force**</p>
-<p>**-You cannot shoot the intruder if they are retreating**</p>
-<p>**-You cannot shoot an intoxicated person that accidently enters the property**</p>
-<p>**-If a percieved threat is outside the property, you cannot shoot them**</p>
+<p><b>-If you are attempting to stop a burglary in your home you may use lethal force</b></p>
+<p>-You cannot shoot the intruder if they are retreating</p>
+<p>-You cannot shoot an intoxicated person that accidently enters the property</p>
+<p>-If a percieved threat is outside the property, you cannot shoot them</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175885-6be92580-e629-11e9-8703-eab3749cc00f.png)
 
