@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/54198889/66175579-56273080-e628-11e9-8fd8-252762444a61.png)
 
 # What are "Stand your Ground" Laws?
-<p>Stand your ground laws were first passed during 2005 in the state of Florida. These stand your ground laws give people the right to use self defense to protect themselves from a threat. Many states have their own version of stand your ground laws. For examaple,the state of New York uses the Castle Doctrine, where a homeowner has the right to use lethal force if there is an intruder on their property.</p>
+<p>Stand your ground laws were first passed during 2005 in the state of Florida. These stand your ground laws give people the right to use self defense to protect themselves from a threat. Many states have their own version of stand your ground laws. For example,the state of New York uses the Castle Doctrine, where a homeowner has the right to use lethal force if there is an intruder on their property.</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175761-ef564700-e628-11e9-82d8-1b16615b0d88.png)
 
