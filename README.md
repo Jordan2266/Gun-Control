@@ -9,12 +9,12 @@
 ![image](https://user-images.githubusercontent.com/54198889/66175761-ef564700-e628-11e9-82d8-1b16615b0d88.png)
 
 # The danger of Stand your Ground Laws
-<p>According to everytownresearch.org, 30 people die every month due to stand your ground laws and it leads to more firearm injuries. Stand your ground laws in the state of Florida alone led to a 32% increase in firearm  deaths and a 24% increase in overall homicides. An example of stand your ground laws leading to an unlawful shooting was on September 6 2018, Dallas police officer Amber Guyger killed Botham Jean in his own apartment. Amber Guyger entered Botham Jean's apartment when she was off-duty and mistakenly thought Botham's apartment was her's. Believeing that he was a burglar, Amber Guyger shot Botham Jean in his own apartment. She has now been sentenced 10 years in prison while many other believe she deserved more that 20 years.</p>
+<p>According to everytownresearch.org, 30 people die every month due to stand your ground laws and it leads to more firearm injuries. Stand your ground laws in the state of Florida alone led to a 32% increase in firearm  deaths and a 24% increase in overall homicides. An example of stand your ground laws leading to an unlawful shooting was on September 6, 2018, Dallas police officer Amber Guyger killed Botham Jean in his own apartment. Amber Guyger entered Botham Jean's apartment when she was off-duty and mistakenly thought Botham's apartment was her's. Believing that he was a burglar, Amber Guyger shot Botham Jean in his own apartment. She has now been sentenced to 10 years in prison while many other believe she deserved more that 20 years.</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175368-57a42900-e627-11e9-8a1a-679683858bd9.png)
 
 # Stricter versions of Stand your Ground Laws
-<p>Despite the fact that majority of the United States passed stand your ground laws, many of these states have different versions of it such as the Castle Doctrine. The Castle Doctrine is law that gives people the right to use their firearm if there is an intruder in that person's household. As stated earlier, the state of New York uses the Castle Doctrine for self-defense. But there are many circumstances to this and there are rules for self-defense which include:</p>
+<p>Despite the fact that majority of the United States passed stand your ground laws, many of these states have different versions of it such as the Castle Doctrine. The Castle Doctrine is a law that gives people the right to use their firearm if there is an intruder in that person's household. As stated earlier, the state of New York uses the Castle Doctrine for self-defense. But there are many circumstances to this and there are rules for self-defense which include:</p>
 
 <p><b>-If you are attempting to stop a burglary in your home you may use lethal force</b></p>
 <p><b>-You cannot shoot the intruder if they are retreating</b></p>
@@ -23,15 +23,15 @@
 
 ![image](https://user-images.githubusercontent.com/54198889/66175885-6be92580-e629-11e9-8703-eab3749cc00f.png)
 
-<p>During a court case they will also look for many other factors that occured during the situation. Such as, did you call out any warnings, was the intruder or "percieved threat" even a danger to begin with, or did the intruder have a weapon. If the intruder was shot, the jury would take into account of where the intruder was shot. This is important because in this instance, the act of self-defense can be deemed unreasonably due to the jury making the conclusion that a retreat was being made.</p>
+<p>During a court case they will also look for many other factors that occured during the situation. Such as, did you call out any warnings, was the intruder or "percieved threat" even a danger to begin with, or did the intruder have a weapon. If the intruder was shot, the jury would take into account where the intruder was shot. This is important because in this instance, the act of self-defense can be deemed unreasonable due to the jury making the conclusion that a retreat was being made.</p>
 
 # States With High Gun Violence
-<p>In 2019, the state of Texas has had the most gun related deaths in the nation. This year, 3,500 people lost their lives related to firearms. Texas is also regarded to have one of the loosest gun policies in the United States and the state has had 4 of 10 of the most deadliest shootings in U.S. history. Also, as I mentioned earlier of Florida having an increase in homicide rates due to stand your ground laws, this year, 2,700 people lost their lives due to gun violence and this was also stated by the increase in gun related homicides.</p>
+<p>In 2019, the state of Texas has had the most gun related deaths in the nation. This year, 3,500 people lost their lives related to firearms. Texas is also regarded to have one of the loosest gun policies in the United States and the state has had 4 out of 10 of the most deadliest shootings in U.S. history. Also, as I mentioned earlier of Florida having an increase in homicide rates due to stand your ground laws, this year, 2,700 people lost their lives due to gun violence and this was also stated by the increase in gun related homicides.</p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175689-9d152600-e628-11e9-8c1e-1a5f567012cf.png)
 
 # Why is this an Important topic for our Future?
-<p>Even though this topic can be very sensitive for some people, I wanted to address this issue because many lives every year are losed due to this unnecessary violence. I believe self-defense should be a right people can keep but there should be a certain extent where this can be in the right for people to use. Such as the laws in New York, where there are specific circumstance where people should use their firearm for self-defense. Even though these circumstance can be much stricter, hopefully we all live in a future where gun related crimes are at an all time low for the United States.  </p>
+<p>Even though this topic can be very sensitive for some people, I wanted to address this issue because many lives every year are lost every year due to this unnecessary violence. I believe self-defense should be a right people can keep but there should be a certain extent where this can be in the right for people to use. Such as the laws in New York, where there are specific circumstance where people should use their firearm for self-defense. Even though these circumstance can be much stricter, hopefully we all live in a future where gun related crimes are at an all time low for the United States.  </p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175282-f0867480-e626-11e9-91ed-98da2143fe14.png)
 
