@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/54198889/66175689-9d152600-e628-11e9-8c1e-1a5f567012cf.png)
 
 # Why is this an Important topic for our Future?
-<p>Even though this topic can be very sensitive for some people, I wanted to address this issue because many lives every year are lost every year due to this unnecessary violence. I believe self-defense should be a right people can keep but there should be a certain extent where this can be in the right for people to use. Such as the laws in New York, where there are specific circumstance where people should use their firearm for self-defense. Even though these circumstance can be much stricter, hopefully we all live in a future where gun related crimes are at an all time low for the United States.  </p>
+<p>Even though this topic can be very sensitive for some people, I wanted to address this issue because many lives every year are lost every year due to unnecessary violence. I believe self-defense should be a right people can keep but there should be a certain extent where this can be in the right for people to use. Such as the laws in New York, where there are specific circumstance where people should use their firearm for self-defense. Even though these circumstance can be much stricter, hopefully we all live in a future where gun related crimes are at an all time low for the United States.  </p>
 
 ![image](https://user-images.githubusercontent.com/54198889/66175282-f0867480-e626-11e9-91ed-98da2143fe14.png)
 
