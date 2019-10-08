@@ -35,6 +35,9 @@
 
 ![image](https://user-images.githubusercontent.com/54198889/66175282-f0867480-e626-11e9-91ed-98da2143fe14.png)
 
+<table style="width:100%">
+</table>
+
 <p>Sources:</p>
 <a href="https://criminal.findlaw.com/criminal-law-basics/states-that-have-stand-your-ground-laws.html">States with Stand your ground Laws</a>
 
